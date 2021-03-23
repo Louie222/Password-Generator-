@@ -1,4 +1,5 @@
 This is my Password Generator assignment.
+Link = https://louie222.github.io/Password-Generator-/
 In this assignment there is a Password Generator application that has a button to generate a random password. When you click on the button nothing would happen. I had to code the script, so when the button is clicked it would generate a random password that would include numbers, lower and uppercase letters and symbols. The length of the password could be between 8 - 128 characters.
 Using this application, users will be given a set of prompts of how they would like to have their password.
 
